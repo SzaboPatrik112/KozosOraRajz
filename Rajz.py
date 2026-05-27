@@ -1,10 +1,9 @@
 import turtle as t
 t.speed(3)
+t.width(5)
 
-#óra mutató
-t.color("brown")
-t.setheading(35)
-t.width(15)
-t.forward(100)
-t.backward(100)
+t.color("purple")
+t.setheading(130)
+t.forward(80)
+t.backward(80)
 t.done()
