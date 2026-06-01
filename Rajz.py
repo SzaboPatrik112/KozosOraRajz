@@ -11,11 +11,10 @@ t.forward(hossz)
 t.goto(0, 0)
 
 t.speed(3)
-t.width(2)
+t.width(5)
 
-t.color("green")
-t.setheading(320)
-t.forward(150)
-t.goto(0, 0)
-
+t.color("purple")
+t.setheading(130)
+t.forward(80)
+t.backward(80)
 t.done()
